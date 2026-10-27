@@ -1,4 +1,4 @@
-# Relógio Rodo
+# QiRod
 
 Borda animada em volta do relógio da tela de bloqueio (Android).
 
